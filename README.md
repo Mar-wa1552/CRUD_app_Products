@@ -1,5 +1,4 @@
 # CRUD_app_Products 
-Saidi marwa LIS3 
        Opérations CRUD sur un produit 
 
 J’ai fait la Création d'un projet Spring Boot dans eclipse 
